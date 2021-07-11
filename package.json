@@ -3,18 +3,36 @@
   "displayName": "Steno Light Theme",
   "description": "Light theme with a green background. Guaranteed to make you smarter!",
   "version": "1.0.0",
+  "author": "Alesh Houdek <mail@alesh.com> (https://alesh.com)",
+  "publisher": "Alesh Houdek",
+  "license": "MIT",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#ccf0d4",
+    "theme": "light"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aleshh/steno-light-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aleshh/steno-light-theme/issues"
+  },
   "engines": {
     "vscode": "^1.58.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "green"
+  ],
   "contributes": {
     "themes": [
       {
         "label": "Steno Light Theme",
         "uiTheme": "vs",
-        "path": "./themes/Steno Light Theme-color-theme.json"
+        "path": "./themes/StenoLightTheme-color-theme.json"
       }
     ]
   }
