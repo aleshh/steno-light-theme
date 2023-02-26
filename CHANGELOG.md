@@ -4,6 +4,10 @@ All notable changes to the "steno-light-theme" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.3.0
+
+- Update colors of remote window status bar button
+
 ## 1.2.0
 
 - Update list colors

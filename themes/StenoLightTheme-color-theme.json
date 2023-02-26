@@ -38,6 +38,8 @@
     "statusBar.noFolderBackground": "#ccf0d4",
     "statusBar.debuggingBackground": "#ccf0d4",
     "statusBar.foreground": "#333333",
+    "statusBarItem.remoteBackground": "#ccf0d4",
+    "statusBarItem.remoteForeground": "#333333",
     "tab.activeBorderTop": "#bddbc4",
     "tab.activeModifiedBorder": "#ccf0d4",
     "tab.border": "#bddbc4",
